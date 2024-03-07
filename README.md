@@ -17,3 +17,8 @@ Compress images to the size you specify
 - add user prompt for size
 - Package as a standalone app
 - GUI
+
+#### 🎭 Name Trivia:
+
+- Hydraulic presses compress things to super small sizes.
+- Presenting the Hydraulic press for images!
